@@ -12,6 +12,8 @@ This Packet Tracer lab demonstrates how to configure **Named Access Control List
   - **192.168.1.0/24**: Connected to SW3 (Server SRV1)
   - **192.168.2.0/24**: Connected to SW4 (Server SRV2)
   - **203.0.113.0/30**: Serial link between R1 and R2
+
+<img src= "https://github.com/ro-drick/Configuring-Extended-ACLs-/blob/main/extended-acls.jpg">
   
 ### ACL Policies
 
